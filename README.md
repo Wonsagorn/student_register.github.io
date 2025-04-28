@@ -27,6 +27,9 @@
 ระบบนี้พัฒนาเพื่อให้การจัดการข้อมูลนักศึกษาในสถานศึกษาเป็นไปอย่างสะดวกผ่านเว็บแอปพลิเคชัน  
 สามารถลงทะเบียน, อัปโหลดรูป, ค้นหา, แก้ไข และลบนักศึกษาได้
 
+## ตัวอย่างหน้าเว็ปไซต์
+<img src="[https://raw.githubusercontent.com/wonsagorn/student_register/main/images/student_example.png" width="300](https://github.com/Wonsagorn/student_register.github.io/blob/main/image/%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%9A.png.png)">
+
 ---
 
 ## ✨ คุณสมบัติหลัก
